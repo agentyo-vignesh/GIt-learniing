@@ -3,6 +3,8 @@ add
 commit
 status
 log
-
+push
+remote add
+git branch
 
 
