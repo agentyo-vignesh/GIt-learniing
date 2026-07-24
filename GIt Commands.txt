@@ -3,5 +3,7 @@ add
 commit
 status
 log
+cb
+hc
 
 
